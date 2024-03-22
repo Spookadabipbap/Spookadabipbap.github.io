@@ -308,7 +308,7 @@ body{
        text-align: center;
 }} 
 /* mobile phone */
-@media(max-width: 540px){
+@media(max-width: 500px){
     html{font-size: 60% ;}
     .simply-countdown > .simply-section {
         padding:30px;
